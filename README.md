@@ -40,7 +40,7 @@ The project answers the following 5 important business questions:
 ---------------
 The Excel dashboard provides a visual summary of the hospital-management data.
 *Total Appoinments, Total BILLING AMOUNT, AVERAGE TREATMENT AMOUNT, MONTHLY BILLING REVENUE, APPOINTMENTS BY DOCTOR, REVENUE BY DOCTOR, REASONS FOR PATIENT VISITS,REVENUE BY TREATMENT*
-DASHBOARD<img width="1660" height="772" alt="Screenshot 2026-09-21 100049" src="https://github.com/user-attachments/assets/b8e2ea05-dfab-4e46-8a77-0895b26156b6" />
+DASHBOARD<img width="1655" height="857" alt="image" src="https://github.com/user-attachments/assets/77b1f6eb-c46c-4700-acc4-8f6687590f98" />
 
 
  KEY FINDINGS
